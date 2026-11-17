@@ -1,0 +1,12 @@
+{
+  "id": "example.text-summarizer",
+  "name": "Example Text Summarizer",
+  "resource_type": "tool",
+  "publisher": {"name": "Example Publisher"},
+  "version": "1.0.0",
+  "capabilities": [{"id": "text.summarize", "description": "Summarizes supplied text."}],
+  "permissions": [],
+  "provenance": {"kind": "illustrative_fixture"},
+  "verification": {"status": "not_verified"},
+  "limitations": ["Synthetic example only; not a live resource."]
+}
