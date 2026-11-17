@@ -1,0 +1,15 @@
+{
+  "vocabulary": "Open Intelligence Core Terms",
+  "version": "0.1.0",
+  "status": "initial-draft",
+  "terms": [
+    {"id":"oi:open-intelligence","label":"Open Intelligence","definition":"An approach to open, interoperable, and verifiable intelligence systems in which models, agents, tools, knowledge, computing resources, and human expertise can be discovered, evaluated, communicate, reason, coordinate, and contribute to shared objectives."},
+    {"id":"oi:resource","label":"OI Resource","definition":"A discoverable participant or asset, such as a model, agent, tool, dataset, skill, compute resource, or human expertise offering."},
+    {"id":"oi:system","label":"OI System","definition":"A system that consumes, provides, coordinates, or evaluates OI resources."},
+    {"id":"oi:network","label":"OI Network","definition":"A set of OI systems and resources connected through defined interfaces and policies."},
+    {"id":"oi:fabric","label":"OI Fabric","definition":"The interoperability foundation defining shared terminology, resource contracts, discovery conventions, and compatibility rules."},
+    {"id":"oi:swarm","label":"OI Swarm","definition":"A coordinated population of distributed OI resources operating under an explicit objective and policy boundary."},
+    {"id":"oi:fh-moe","label":"Federated Heterogeneous Mixture of Experts","definition":"A system-level approach that selects and composes independently implemented heterogeneous experts, including models, agents, tools, datasets, and human expertise."},
+    {"id":"oi:conformance","label":"OI Conformance","definition":"Evidence that an implementation satisfies a specified version of an interface, schema, or behavioral requirement."}
+  ]
+}
